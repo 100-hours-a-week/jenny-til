@@ -8,7 +8,7 @@
 
 ### [11월 첫째주, 1주차] : 
 
-[24.11.05](https://github.com/100-hours-a-week/jenny-til/blob/main/Oct/2024-11-05.md) - ChatGTP프롬프트, 웹 응용 </br>
-[24.11.06](https://github.com/100-hours-a-week/jenny-til/blob/main/Oct/2024-11-06.md) -  딥다이브 2회차 (조건부 요청 헤더)
+[24.11.05](https://github.com/100-hours-a-week/jenny-til/blob/main/Nov/2024-11-05.md) - ChatGTP프롬프트, 웹 응용 </br>
+[24.11.06](https://github.com/100-hours-a-week/jenny-til/blob/main/Nov/2024-11-06.md) -  딥다이브 2회차 (조건부 요청 헤더)
 
 
